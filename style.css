@@ -1,0 +1,46 @@
+
+ 
+body{ 
+   background-color: grey;
+}
+
+.card{
+   background-color: white;
+   width: 400px;
+   height: 600px;
+   margin: 100px;
+
+   img{
+      height: 300px;
+      width: 350px;
+      padding: 20px;
+   }
+
+span{
+   border: 2px solid;
+   padding: 7px;
+   margin: 60px;
+   border-radius: 7px;
+}
+
+
+h2{
+   margin: 20px;
+}
+
+pre{
+   font-family: 'Times New Roman', Times, serif;
+   justify-content: center;
+   display: flex;
+
+}
+
+a{
+   border: 2px solid ;
+   border-radius: 7px;
+   padding: 4px;
+   margin: 140px;
+}
+
+
+}
